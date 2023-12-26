@@ -1,0 +1,203 @@
+{
+  "users": [
+    {
+      "name": "Updated User",
+      "age": 30,
+      "email": "updated@example.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Nikkolay Kustov",
+      "age": 28,
+      "email": "nick@example.com"
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 6
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 7
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 8
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 9
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 10
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 11
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 12
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 13
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 14
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 15
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 16
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 17
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 18
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 19
+    },
+    {
+      "name": "Test User",
+      "age": 25,
+      "email": "test@example.com",
+      "id": 20
+    }
+  ],
+  "posts": [
+    {
+      "id": 4,
+      "title": "Пост пользователя 4",
+      "body": "Содержание поста пользователя 4",
+      "userId": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 4,
+      "body": "Комментарий к посту 4",
+      "postId": 4
+    }
+  ],
+  "tasks": [
+    {
+      "id": 4,
+      "title": "Задача 4",
+      "completed": true,
+      "userId": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Категория 2"
+    },
+    {
+      "name": "Updated Category",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Категория 4"
+    },
+    {
+      "name": "Test Category",
+      "id": 6
+    },
+    {
+      "name": "Test Category",
+      "id": 7
+    },
+    {
+      "name": "Test Category",
+      "id": 8
+    },
+    {
+      "name": "Test Category",
+      "id": 9
+    },
+    {
+      "name": "Test Category",
+      "id": 10
+    },
+    {
+      "name": "Test Category",
+      "id": 11
+    },
+    {
+      "name": "Test Category",
+      "id": 12
+    },
+    {
+      "name": "Test Category",
+      "id": 13
+    },
+    {
+      "name": "Test Category",
+      "id": 14
+    },
+    {
+      "name": "Test Category",
+      "id": 15
+    },
+    {
+      "name": "Test Category",
+      "id": 16
+    },
+    {
+      "name": "Test Category",
+      "id": 17
+    },
+    {
+      "name": "Test Category",
+      "id": 18
+    },
+    {
+      "name": "Test Category",
+      "id": 19
+    },
+    {
+      "name": "Test Category",
+      "id": 20
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+INFO:api_test:POST Response: {
+  "name": "Test User",
+  "age": 25,
+  "email": "test@example.com",
+  "id": 10
+}
+INFO:api_test:GET Response: {}
+INFO:api_test:PUT Response: {}
+INFO:api_test:DELETE Response: {}
+INFO:api_test:POST Response: {
+  "title": "Test Post",
+  "body": "This is a test post.",
+  "userId": 2,
+  "id": 10
+}
+INFO:api_test:GET Response: {}
+INFO:api_test:PUT Response: {}
+INFO:api_test:DELETE Response: {}
+INFO:api_test:POST Response: {
+  "body": "This is a test comment.",
+  "postId": 2,
+  "id": 10
+}
+INFO:api_test:GET Response: {}
+INFO:api_test:PUT Response: {}
+INFO:api_test:DELETE Response: {}
+INFO:api_test:POST Response: {
+  "title": "Test Task",
+  "completed": false,
+  "userId": 2,
+  "id": 10
+}
+INFO:api_test:GET Response: {}
+INFO:api_test:PUT Response: {}
+INFO:api_test:DELETE Response: {}
+INFO:api_test:POST Response: {
+  "name": "Test Category",
+  "id": 10
+}
+INFO:api_test:GET Response: {}
+INFO:api_test:PUT Response: {}
+INFO:api_test:DELETE Response: {}

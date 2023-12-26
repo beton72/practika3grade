@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "allure": "^0.0.0",
+    "pytest": "^1.0.0",
+    "pytest-cov": "^0.0.1"
+  }
+}
